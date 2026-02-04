@@ -1,0 +1,10 @@
+init: add CMake, Makefile, new layout
+schema: add sqlite db wrapper and schema
+auth: add Argon2id password hashing
+contacts: add contacts CRUD and stats
+csv: add robust CSV import/export
+cli: add menu and CLI flags
+migrate: add legacy contact.dat import
+tests: add unit and integration tests
+docs: add README, SECURITY, CHANGELOG
+cleanup: formatting and warning fixes
