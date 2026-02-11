@@ -1,5 +1,19 @@
 # Contact Manager (C11)
 
+<div align="right">
+
+[![CI](https://github.com/SagarBiswas-MultiHAT/Contact-Management-System/actions/workflows/ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/Contact-Management-System/actions/workflows/ci.yml)
+&nbsp;
+[![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/Contact-Management-System)](https://github.com/SagarBiswas-MultiHAT/Contact-Management-System/blob/main/LICENSE)
+&nbsp;
+[![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Contact-Management-System)](https://github.com/SagarBiswas-MultiHAT/Contact-Management-System)
+&nbsp;
+[![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/Contact-Management-System)](https://github.com/SagarBiswas-MultiHAT/Contact-Management-System/issues)
+&nbsp;
+[![Platforms](https://img.shields.io/badge/build-Linux%20%7C%20macOS%20%7C%20Windows-blue)](https://github.com/SagarBiswas-MultiHAT/Contact-Management-System/actions)
+
+</div>
+
 **Production-grade, CLI-first contact manager in C11** — a single small, portable binary that is safe to use interactively or from automation scripts. It stores data in SQLite, supports Argon2id password hashing (via _libsodium_ or _libargon2_), and includes robust CSV import/export, JSON output, and a keyboard-friendly interactive menu.
 
 ---
